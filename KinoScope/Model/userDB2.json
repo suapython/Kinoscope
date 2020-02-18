@@ -1,0 +1,12 @@
+[ {"id": 001,
+    "name": "Billy Wilder",
+    "topTenList": ["The Best Years of Our Lives (1946)", "Bicycle Thieves (1948)", "The Conformist (1970)", "The Shop Around the Corner (1940)"],
+    "imageName": "thumb_wilder",
+    "category": "cinema" },
+ {"id": 002, "name": "Woody Allen", "topTenList": ["Bicycle Thieves (1948)", "The Seventh Seal (1958)", "Citizen Kane (1941)", "Amarcord (1973)", "The 400 Blows (1959)", "The Discreet Charm of the Bourgeoisie (1972)", "Paths of Glory (1957)"], "imageName": "thumb_allen.jpg","category": "cinema" },
+  {"id": 003, "name": "Mike Leigh", "topTenList":  ["American Madness (1932)", "Andrei Rublev (1966)", "I Am Cuba (1964)", "Jules and Jim (1962)", "Radio Days (1987)"],  "imageName": "thumb_leigh.jpg","category": "cinema" },
+  {"id": 004, "name": "Francis Ford Coppola", "topTenList":  ["Ashes and Diamonds (1958)", "Raging Bull (1980)", "The Apartment (1960)", "Sunrise (1927)"],  "imageName": "thumb_coppola.jpg","category": "cinema" },
+  {"id": 005 , "name": "Nadia", "topTenList": ["Mamma Roma (1962)", "Bellissima (1951)", "Bellissima (1951)", "Once Upon a Time in America (1984)", "A Clockwork Orange (1971)"], "imageName": "thumb_nadia.jpg","category": "science"},
+ {"id": 006, "name": "Francisco", "topTenList": ["Investigation of a Citizen Above Suspicion (1970)", "The Seduction of Mimi (1972)", "Pulp Fiction (1994)", "A Clockwork Orange (1971)", "Zelig (1983)", "Solaris (1972)", "City of God (2002)", "Persona (1966)", "Underground (1995)"], "imageName": "thumb_francisco.jpg","category": "science"},
+{"id": 007, "name": "Francesco", "topTenList": ["Hate (1995)", "Red Lob (1989)", "Glengarry Glen Ross (1992)", "Gli invisibili (1988)", "Three Colors: Red (1994)", "A School Outing (1983)", "Musica per vecchi animali (1989)"], "imageName": "thumb_francesco.jpg","category": "science"}
+]
